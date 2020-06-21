@@ -14,9 +14,17 @@ Real-time Camera Pose Tracking :
 
 1)[Pan-tilt-zoom SLAM for Sports Videos](https://bmvc2019.org/wp-content/uploads/papers/0329-paper.pdf) - [Code](https://github.com/lulufa390/Pan-tilt-zoom-SLAM) - Lu, J., Chen, J., & Little, J. J. (2019)
 
-Useful GIT-repo :
+2)[KFNet: Learning Temporal Camera Relocalization using Kalman Filtering](https://arxiv.org/pdf/2003.10629v1.pdf) - [Code]
+(https://github.com/zlthinker/KFNet)
+
+Useful Links :
 
 https://github.com/cemunds/awesome-sports-camera-calibration
+
+[Image Based Camera Localization: an Overview](https://arxiv.org/ftp/arxiv/papers/1610/1610.03660.pdf}
+
+[Real-Time Camera Pose Estimation for Sports Fields](https://arxiv.org/pdf/2003.14109.pdf)
+
 
 
 
