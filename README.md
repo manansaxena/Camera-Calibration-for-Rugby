@@ -21,7 +21,7 @@ Useful Links :
 
 https://github.com/cemunds/awesome-sports-camera-calibration
 
-[Image Based Camera Localization: an Overview](https://arxiv.org/ftp/arxiv/papers/1610/1610.03660.pdf}
+[Image Based Camera Localization: an Overview](https://arxiv.org/ftp/arxiv/papers/1610/1610.03660.pdf)
 
 [Real-Time Camera Pose Estimation for Sports Fields](https://arxiv.org/pdf/2003.14109.pdf)
 
